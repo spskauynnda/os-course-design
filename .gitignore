@@ -1,11 +1,11 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 #IDE
-/monitor-again/.idea
+./monitor-again/.idea
 
 # dependencies
-/node_modules
-/monitor-again/node_modules
+./node_modules
+./monitor-again/node_modules
 
 
 # testing
@@ -24,6 +24,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-
-/monitor-attempt
