@@ -1,0 +1,28 @@
+{
+  "processTree": [
+    {
+      "name": "dock",
+      "memory": "58",
+      "pid": "348",
+      "user": "admin"
+    },
+    {
+      "name": "terminal",
+      "memory": "46.3",
+      "pid": "294",
+      "user": "admin"
+    },
+    {
+      "name": "windowServer",
+      "memory": "365",
+      "pid": "501",
+      "user": "admin"
+    },
+    {
+      "name": "node",
+      "memory": "317.2",
+      "pid": "893",
+      "user": "admin"
+    }
+  ]
+}
